@@ -66,3 +66,6 @@ Conducted exploratory data analysis to answer various business questions related
 
 ## Conclusion
 This project provided valuable insights into Walmart's sales data, revealing trends in product performance, customer behavior, and financial metrics. The analyses conducted can be used to inform strategic decisions, optimize sales strategies, and enhance overall business performance.
+
+This Tableau dashboard provides insights into sales trends, performance, and distribution.
+https://public.tableau.com/shared/QHW65JQJ2?:display_count=n&:origin=viz_share_link
